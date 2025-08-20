@@ -14,7 +14,7 @@ Here are some of my highlighted projects:
 | [Tindog Website](https://github.com/romi-bohmra/tindogwebsite)       | Created a website using HTML, CSS, JavaScript, Bootstrap and jQuery             |
 
 
-🔍 Whether it's crafting modern web applications, exploring ML models or automating workflows, I'm alway eager to learn and collaborate on impactful projects.
+🔍 Whether it's crafting modern web applications, exploring ML models or automating workflows, I'm always eager to learn and collaborate on impactful projects.
 
 🚀 Let's connect and build something awesome! 
 <!--
