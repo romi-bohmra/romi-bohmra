@@ -1,4 +1,4 @@
-##👋 Hi, I'm Romi, a software developer and Master's student at the University of Victoria, with a strong focus on frontend development and multidisciplinary background in Cybersecurity, Machine Learning and DevOps. 
+👋 Hi, I'm Romi, a software developer and Master's student at the University of Victoria, with a strong focus on frontend development and multidisciplinary background in Cybersecurity, Machine Learning and DevOps. 
 
 💡I enjoy building intuitive and efficient user interfaces, while also applying principles of secure and scalable software design. 
 My diverse background helps me bridge the gap between development, infrastructure, and intelligent systems.
