@@ -7,7 +7,7 @@ Here are some of my highlighted projects:
 
 | Projects                                               | Description                                          |
 | ------------------------------------------------------ | ---------------------------------------------------- |
-| [Student Performance Indicator](https://github.com/romi-bohmra/machineLearning) | Developed an end-to-end student performance prediction project that utilizes machine learning to forecast academic outcomes based on historical data."
+| [Student Performance Indicator](https://github.com/romi-bohmra/machineLearning) | Developed an end-to-end student performance prediction project that utilizes machine learning to forecast academic outcomes based on historical data.
 | [Google Keep Clone](https://github.com/romi-bohmra/Google-Keep-Clone)                              | Developed a note-taking web app like Google Keep using Javascript ES6 features - classes, constructors, arrow functions, template literals.                                         |
 | [Medical Chatbot](https://github.com/romi-bohmra/medicalChatbot)                              | Developed a medical preconsultation chatbot to implement reinforcement learning using Python, Numpy, and torch.                                         |
 | [Differential Cryptanalysis](https://github.com/romi-bohmra/differential_cryptanalysis)       | Implemented a differential cryptanalysis attack on a SPN block cipher using C++.               |
